@@ -9,11 +9,11 @@
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const A187 = '👾VARGAS_250👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://www.instagram.com/vargas_250/'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281227560249'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/BkH2qUhWSHFGgbjSDGmL2e'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
